@@ -19,15 +19,8 @@ Edit task content directly in the input field and click the Edit Icon button to 
 Click the Delete Icon button to remove a task. A confirmation dialog ensures accidental deletions are avoided.
 
 #Folder Structure 
-src/
-├── lib/
-│   └── todoistAPI.js       # Contains all API interaction logic # You should write your Todoist API token here to use the app.
-├── routes/
-│   ├── +page.svelte        # Main entry point of the app
-│   ├── components/
-│   │   ├── TaskForm.svelte # Handles adding new tasks
-│   │   ├── TasksList.svelte # Renders the list of tasks
-│   │   └── TaskItem.svelte  # Individual task item for update/delete
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/649f7310-a11a-4d42-a53f-741eb22de9af">
+
 
 Technologies Used
 SvelteKit - Modern framework for building web apps.
