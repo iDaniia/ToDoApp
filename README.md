@@ -22,7 +22,8 @@ Click the Delete Icon button to remove a task. A confirmation dialog ensures acc
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/649f7310-a11a-4d42-a53f-741eb22de9af">
 
 
-Technologies Used
+
+#Technologies Used
 SvelteKit - Modern framework for building web apps.
 Tailwind CSS - Utility-first CSS framework.
 Todoist API - Integration for task management.
