@@ -9,16 +9,16 @@ Delete tasks with confirmation.
 Responsive and user-friendly interface.
 
 # Usage
-Add Tasks
+Add Tasks : 
 Type a task into the input field and click Add to save it.
 
-View Tasks
+View Tasks : 
 All tasks are fetched from your Todoist account and displayed in the list.
 
-Update Tasks
+Update Tasks : 
 Edit task content directly in the input field and click the Edit Icon button to save changes.
 
-Delete Tasks
+Delete Tasks : 
 Click the Delete Icon button to remove a task. A confirmation dialog ensures accidental deletions are avoided.
 
 # Folder Structure 
